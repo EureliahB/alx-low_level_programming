@@ -12,13 +12,13 @@ if (a >= 98)
 {
 
 while (a > 98)
-printf("%d, ", a--);
+printf("%d, ", a++);
 }
 else
 {
 
 while (a < 98)
-printf("%d, ", a++);
+printf("%d, ", a--);
 printf("%d\n", a);
 }
 }
