@@ -21,7 +21,7 @@ else
 for (x = 0; x < size; x++)
 {
 
-for (y = size - x; y < !; y--)
+for (y = size - x; y > !; y--)
 {
 
 _putchar(32);
